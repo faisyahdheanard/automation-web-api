@@ -20,7 +20,7 @@ To set up the development environment, follow these steps:
 3. Build the project and download dependencies using Gradle by running the following command in the terminal:
 
 ```
-./gradle build
+./gradlew build
 ```
 
 ## Running the tests
@@ -28,7 +28,7 @@ To set up the development environment, follow these steps:
 To execute the automated tests for this system, run the following Gradle task:
 
 ```
-./gradle cucumber
+./gradlew cucumber
 ```
 This will run the Cucumber tests with the specified configuration and generate an HTML test report in the "reports" directory.
 
