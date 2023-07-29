@@ -1,8 +1,8 @@
 # API Automation Test Framework using REST Assured and Web Automation Test Framework using Selenium 
 
 This project consists of two test frameworks designed for automated testing of APIs and web applications. The API Automation Test Framework is built using REST Assured, and the Web Automation Test Framework utilizes Selenium. Using Java and Gradle as the programming language and build tool. Web Automation frameworks is integrated with Cucumber, a behavior-driven development (BDD) tool.
-API automation task : https://reqres.in/
-Web automation task : https://www.saucedemo.com/
+* API automation task : https://reqres.in/
+* Web automation task : https://www.saucedemo.com/
 ## Getting Started
 
 These instructions will guide you on how to set up the project on your local machine for development and testing purposes.
